@@ -1,21 +1,21 @@
 # Trabajos para los grupos de 2
-- ### 1. Login - ()
+- ### 1. Login - (orlando/crhistian)
 ![alt text](./asset/image.png)
-- ### 2. Formulario de registro
+- ### 2. Formulario de registro - (Yerson/Denis)
 ![alt text](./asset/image-1.png)
-- ### 3. Barra de navegacion Uno
+- ### 3. Barra de navegacion Uno - (Yerald/Moises)
 ![alt text](./asset/image-2.png)
-- ### 4. Barra de navegacion Dos
+- ### 4. Barra de navegacion Dos - (Maritza/Yadira)
 ![alt text](./asset/image-3.png)
-- ### 5. Contador
+- ### 5. Contador - (Feliciana/Cristian)
 ![alt text](./asset/image-4.png)
-- ### 6. Tarjeta de Estilo RPG
+- ### 6. Tarjeta de Estilo RPG - (Jhonatan/Hans)
 ![alt text](./asset/image-5.png)
-- ### 7. Tarjeta de usuario
+- ### 7. Tarjeta de usuario - (Nadine/Lourdes)
 ![alt text](./asset/image-8.png)
-- ### 8. Tarjeta de credito
+- ### 8. Tarjeta de credito - (Jhony/Edwin)
 ![alt text](./asset/image-7.png)
-- ### 9. Notificaciones
+- ### 9. Notificaciones - (Adan/David)
 ![alt text](./asset/image-9.png)
 - ### 10. Grafica de progreso
 - ![alt text](./asset/image-10.png)
